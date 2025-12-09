@@ -1,0 +1,6 @@
+Flask
+tensorflow==2.12
+opencv-python-headless==4.7.0.72
+numpy
+gunicorn
+imutils
