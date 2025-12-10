@@ -1,6 +1,0 @@
-Flask
-onnxruntime
-opencv-python-headless
-numpy
-imutils
-gunicorn
