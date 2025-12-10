@@ -1,7 +1,0 @@
-Flask
-onnxruntime
-opencv-python-headless
-numpy
-imutils
-gunicorn
-python-3.10.12
