@@ -46,9 +46,10 @@ Neon glowing bounding box around your face
 
 Mask / No Mask prediction
 
-Confidence percentage
+Confidence percentage: 
 
-(Add screenshots or GIFs here if you want)
+<img width="640" height="480" alt="plot" src="https://github.com/user-attachments/assets/a4ed9fd4-7c89-4f89-8f58-e0b6ccf39456" />
+<img width="2400" height="1600" alt="mask_detection_training" src="https://github.com/user-attachments/assets/5fada653-1e47-46da-bd05-5cf99dee4719" />
 
 📁 Project Structure
 📦 your-project/
