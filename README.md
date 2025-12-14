@@ -76,10 +76,6 @@ pip install -r requirements.txt
 3️⃣ Run the Flask server
 python app.py
 
-4️⃣ Open in browser
-http://127.0.0.1:5000
-
-
 Your webcam will start automatically.
 
 ⚙️ Requirements
